@@ -1,5 +1,7 @@
 # IntelliJ IDEA Community Edition
 
+[![Join the chat at https://gitter.im/andreiverdes/intellij-community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/andreiverdes/intellij-community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the official GitHub mirror of the [IntelliJ IDEA Community Edition](http://www.jetbrains.com/idea/) and
 [PyCharm Community Edition](http://www.jetbrains.com/pycharm/) source code.
 
